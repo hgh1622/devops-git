@@ -11,10 +11,8 @@
   231  git status
   232  git commit -m "first code"
   233  git commit -m "first codefile"
-  234    git config --global user.email "honnegowdah943@gmail.com"
-  235   git config --global user.name "hgh1622"
   236  git commit -m "first codefile"
   237  git status
   238   ls
   239  git push
-  
+ 

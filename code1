@@ -1,0 +1,19 @@
+  221  git -v
+  222  git clone https://github.com/hgh1622/devops-git.git
+  223  cd devops-git
+  224  cd devops-git/
+  225  git branch
+  226  git branch
+  227  git status
+  228  touch code1
+  229  git status
+  230  git add code1
+  231  git status
+  232  git commit -m "first code"
+  233  git commit -m "first codefile"
+  234    git config --global user.email "honnegowdah943@gmail.com"
+  235   git config --global user.name "hgh1622"
+  236  git commit -m "first codefile"
+  237  git status
+  238   ls
+  239  git push

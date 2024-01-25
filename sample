@@ -4,3 +4,5 @@ create file
 git add <file name> to track the file
 git commit -m ""
 git push
+git fetch
+git pull
